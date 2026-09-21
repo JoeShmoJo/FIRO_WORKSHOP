@@ -1,0 +1,4 @@
+level,elev_ft,stor_af,source
+full_pool,1015.00,443066,"PLACEHOLDER - replace with the stats tab value. Storage interpolated from ratings/GPR.csv at this elevation."
+conservation_max,1010.00,424402,"data/RuleCurves.csv - maximum of the GREEN PETER column. Storage interpolated from ratings/GPR.csv."
+conservation_min,922.01,165649,"data/RuleCurves.csv - minimum of the GREEN PETER column (14 Dec - 30 Jan). Storage interpolated from ratings/GPR.csv."
